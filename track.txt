@@ -1,1 +1,1 @@
-fix: resolved missing gtk dependency for Ubuntu
+fix: resolved missing gtk dependency for Fedora
