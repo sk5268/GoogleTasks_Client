@@ -1,1 +1,1 @@
-chore: updated package list for Fedora
+build: installed webkitgtk for Ubuntu support
