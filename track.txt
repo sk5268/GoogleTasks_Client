@@ -1,1 +1,1 @@
-chore: installed additional libraries for Ubuntu build
+chore: installed additional libraries for Fedora build
