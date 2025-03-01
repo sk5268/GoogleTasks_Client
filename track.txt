@@ -1,1 +1,1 @@
-fix: ensured all Fedora dependencies were present
+chore: updated package list for Ubuntu
