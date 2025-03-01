@@ -1,1 +1,1 @@
-build: generated PyInstaller build for Windows
+chore: tweaked build settings for Ubuntu
