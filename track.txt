@@ -1,1 +1,1 @@
-chore: changed GUI to qt
+refactor: refactored GUI to use gtk
