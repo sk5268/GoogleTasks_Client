@@ -1,1 +1,1 @@
-feat: set new base URL
+chore: used updated URL
