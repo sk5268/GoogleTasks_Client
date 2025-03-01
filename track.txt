@@ -1,1 +1,1 @@
-perf: improved GUI engine usage for cef
+feat: updated default URL
