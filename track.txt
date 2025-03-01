@@ -1,1 +1,1 @@
-test: ensured Windows build stability
+fix: improved Ubuntu packaging
