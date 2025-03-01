@@ -1,2 +1,2 @@
 # GoogleTasks_Client
-The best Googel Tasks Client for desktop, OS-Agnostic.
+The best Google Tasks Client for desktop, OS-Agnostic!!
