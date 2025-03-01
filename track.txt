@@ -1,1 +1,1 @@
-build: installed webkitgtk for Fedora support
+fix: added missing PyInstaller dependencies for Ubuntu
