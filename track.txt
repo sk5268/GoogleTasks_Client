@@ -1,1 +1,1 @@
-test: verified Windows app functionality
+chore: adjusted Ubuntu build script
