@@ -1,1 +1,1 @@
-chore: tweaked build settings for Ubuntu
+fix: resolved Fedora build issues
