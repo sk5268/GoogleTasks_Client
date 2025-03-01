@@ -1,1 +1,1 @@
-chore: installed additional libraries for Fedora build
+chore: removed custom web agent
