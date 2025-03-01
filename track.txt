@@ -1,1 +1,1 @@
-build: deployed macOS app
+test: confirmed Windows compatibility
