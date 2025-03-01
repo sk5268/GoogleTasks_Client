@@ -1,1 +1,1 @@
-build: configured PyInstaller for Fedora
+build: prepared PyInstaller build for macOS
