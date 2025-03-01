@@ -1,1 +1,1 @@
-chore: reviewed Fedora package
+build: tweaked macOS settings
