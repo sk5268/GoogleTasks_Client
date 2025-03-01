@@ -1,1 +1,1 @@
-build: installed pywebview dependencies on Ubuntu
+build: installed pywebview dependencies on Fedora
