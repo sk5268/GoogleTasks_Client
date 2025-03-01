@@ -1,1 +1,1 @@
-refactor: cleaned Fedora build process
+build: optimized macOS app size
