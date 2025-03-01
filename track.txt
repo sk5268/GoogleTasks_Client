@@ -1,1 +1,1 @@
-refactor: refactored GUI to use gtk
+perf: improved GUI engine usage for cef
