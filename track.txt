@@ -1,1 +1,1 @@
-build: optimized macOS app size
+fix: corrected Windows build script
