@@ -1,1 +1,1 @@
-build: installed pywebview dependencies on Fedora
+fix: ensured all Ubuntu dependencies were present
