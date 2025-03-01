@@ -1,1 +1,1 @@
-build: tweaked macOS settings
+fix: fixed Windows app stability issues
