@@ -1,1 +1,1 @@
-chore: updated package list for Ubuntu
+chore: updated package list for Fedora
