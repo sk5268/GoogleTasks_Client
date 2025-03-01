@@ -1,1 +1,1 @@
-fix: resolved Ubuntu build warnings
+refactor: cleaned Fedora build process
