@@ -1,1 +1,1 @@
-build: installed webkitgtk for Ubuntu support
+build: installed webkitgtk for Fedora support
