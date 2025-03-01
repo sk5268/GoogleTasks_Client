@@ -1,1 +1,1 @@
-fix: resolved Fedora build issues
+perf: improved macOS build process
