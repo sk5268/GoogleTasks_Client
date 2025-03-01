@@ -1,1 +1,1 @@
-refactor: reverted web agent changes
+cleanup: finalized removal of custom agent
