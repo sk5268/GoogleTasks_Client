@@ -1,1 +1,1 @@
-chore: tested Windows executable
+build: finalized Ubuntu package
