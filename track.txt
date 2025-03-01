@@ -1,1 +1,1 @@
-fix: added missing PyInstaller dependencies for Fedora
+chore: installed additional libraries for Ubuntu build
