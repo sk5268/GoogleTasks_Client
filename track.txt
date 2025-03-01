@@ -1,1 +1,1 @@
-build: tested Windows app 
+refactor: adjusted build steps for Ubuntu
