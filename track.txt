@@ -1,1 +1,1 @@
-build: completed macOS
+test: conducted final Windows checks
