@@ -1,1 +1,1 @@
-refactor: updated GUI engine to qt
+fix: adjusted GUI engine for gtk
