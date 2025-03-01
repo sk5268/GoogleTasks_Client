@@ -1,1 +1,1 @@
-feat: changed GUI engine to qt
+feat: changed GUI engine to gtk
