@@ -1,1 +1,1 @@
-build: finalized Ubuntu package
+fix: updated Fedora build dependencies
