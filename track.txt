@@ -1,1 +1,1 @@
-build: prepared PyInstaller build for macOS
+build: generated PyInstaller build for Windows
