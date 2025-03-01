@@ -1,1 +1,1 @@
-fix: fixed Windows app stability issues
+chore: installed python dependencies for Ubuntu
