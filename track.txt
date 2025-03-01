@@ -1,1 +1,1 @@
-chore: used updated URL
+fix: modified URL
