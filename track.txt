@@ -1,1 +1,1 @@
-feat: updated default URL
+fix: modified initial URL
