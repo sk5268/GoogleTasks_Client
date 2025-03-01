@@ -1,1 +1,1 @@
-chore: changed URL
+fix: adjusted URL for testing
