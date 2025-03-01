@@ -1,1 +1,1 @@
-test: validated custom user-agent handling
+build: setup PyInstaller for Ubuntu
