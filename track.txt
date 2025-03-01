@@ -1,1 +1,1 @@
-fix: fixed Fedora build bug
+build: signed macOS app
