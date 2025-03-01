@@ -1,1 +1,1 @@
-chore: adjusted Ubuntu build script
+fix: fixed Fedora build bug
