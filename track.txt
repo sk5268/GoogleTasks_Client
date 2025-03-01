@@ -1,1 +1,1 @@
-chore: added -devel packages for Fedora build
+build: installed pywebview dependencies on Ubuntu
