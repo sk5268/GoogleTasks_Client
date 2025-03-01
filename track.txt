@@ -1,1 +1,1 @@
-chore: added -dev packages for Ubuntu build
+chore: added -devel packages for Fedora build
