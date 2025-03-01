@@ -1,1 +1,1 @@
-build: bundled macOS app
+test: verified Windows app functionality
