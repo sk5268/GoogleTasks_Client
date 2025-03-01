@@ -1,1 +1,1 @@
-chore: installed python dependencies for Ubuntu
+chore: installed python dependencies for Fedora
