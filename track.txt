@@ -1,1 +1,1 @@
-chore: cleaned up Fedora build
+build: deployed macOS app
