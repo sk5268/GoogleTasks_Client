@@ -1,1 +1,1 @@
-fix: ensured all Ubuntu dependencies were present
+fix: ensured all Fedora dependencies were present
