@@ -1,1 +1,1 @@
-build: setup PyInstaller for Ubuntu
+build: configured PyInstaller for Fedora
