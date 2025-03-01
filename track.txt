@@ -1,1 +1,1 @@
-chore: finalized Ubuntu release
+fix: adjusted Fedora installation
