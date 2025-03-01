@@ -1,1 +1,1 @@
-build: added libcanberra-gtk3 for Fedora
+fix: resolved missing gtk dependency for Ubuntu
