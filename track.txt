@@ -1,1 +1,1 @@
-fix: resolved missing gtk dependency for Fedora
+chore: added -dev packages for Ubuntu build
