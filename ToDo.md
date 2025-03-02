@@ -1,1 +1,2 @@
 - Fix white title bar in windows
+- Add About section in tool bar
